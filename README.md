@@ -3,6 +3,8 @@
 Turn a folder of PDF invoices into one clean Excel or CSV file.
 Works with **Dutch (Belgium / Netherlands)** and **English** invoices.
 
+> This is the open-source reading engine. For the full automated version (email → AI → spreadsheet, with safety checks and a review screen), see the [DocFlow case study](https://suryavansivsingh.github.io/docflow-case-study/).
+
 Small businesses often type invoice details into a spreadsheet by hand. This tool reads each PDF and pulls out the fields you actually need for bookkeeping.
 
 | Field | Examples it understands |
