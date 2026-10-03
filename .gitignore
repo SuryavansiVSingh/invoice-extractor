@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+invoices.xlsx
+invoices.csv
+.pytest_cache/
+samples/*.pdf
